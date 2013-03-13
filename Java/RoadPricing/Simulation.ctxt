@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ Main\ method\ for\ the\ simulation\r\n
+comment1.params=
+comment1.target=Simulation()
+comment1.text=\r\n\ Constructor\ for\ simulation,\ also\ handles\ main\ operations\r\n
+comment2.params=
+comment2.target=void\ userInterface()
+comment2.text=\r\n\ Controls\ the\ User\ Interface\r\n
+comment3.params=
+comment3.target=void\ runSimulation()
+comment3.text=\r\n\ Responsible\ for\ the\ main\ simulation\ loop\r\n
+comment4.params=
+comment4.target=void\ outputStats()
+comment4.text=\r\n\ Outputs\ the\ statistics\ at\ the\ end\ of\ execution\r\n
+comment5.params=
+comment5.target=java.lang.String\ generateTimestamp()
+comment5.text=\r\n\ Generates\ a\ timestamp\ in\ the\ form\ hh\:mm\ representing\ current\ position\ in\ the\ simulation\r\n\ @return\ String\ representation\ of\ the\ time\ (hh\:mm)\r\n
+comment6.params=lastSensor
+comment6.target=Sensor\ generateDestination(java.lang.String)
+comment6.text=\r\n\ Generates\ a\ viable\ destination\ based\ on\ the\ last\ sensor\ visited\r\n\ @param\ lastSensor\ The\ name\ of\ the\ last\ sensor\ passed\r\n\ @return\ A\ sensor\ object\ for\ the\ vehicle\ to\ travel\ to\ next\r\n
+numComments=7

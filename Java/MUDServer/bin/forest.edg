@@ -1,0 +1,47 @@
+A north B T a path through the forest
+B south A T a path through the forest
+A east C T a path through the forest
+C west A T a path through the forest
+C north D F a dense thicket of brambles
+D south C F a dense thicket of brambles
+B east D F a dense thicket of brambles
+D west B F a dense thicket of brambles
+C south E T a steady slope down a hill
+E north C T a steady slope up a hill
+E south F T a path into a forest clearing
+F north E T a path to the base of a hill
+F west G T a path through the forest
+G east F T a path through the forest
+G north H T an upward sloping path beside a river
+H south G T a downward sloping path beside a river
+H east E T a downhill jump across a river
+E west H F an impossible uphill jump across a river
+H west O T a path through the forest
+O east H T a path through the forest
+O north P T a path through the forest
+P south O T a path through the forest
+P north Q T a path through the forest
+Q south P T a path through the forest
+Q east R T a path through the forest
+R west Q T a path through the forest
+R east S T a path through the forest
+S west R T a path through the forest
+S south D T a path into a quiet forest glade
+D north S T a path out of a quiet forest glade
+S east N T a path through the forest
+N west S T a path through the forest
+N south M T a path through the forest
+M north N T a path through the forest
+M east L T a path through the forest
+L west M T a path through the forest
+L south K T a path through the forest
+K north L T a path through the forest
+K west I T a path through the forest
+I east K T a path through the forest
+I south J T a steep downward slope
+J north I F an impassable steep upward slope
+J west E T a steep downward slope
+E east J F an impassable steep upward slope
+I west C T a path through the forest
+C east I T a path through the forest
+

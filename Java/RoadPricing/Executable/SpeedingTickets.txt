@@ -1,0 +1,15 @@
+FO14 KKA;01:31;01:31;GH;55;Dual Carriageway;50
+FO14 KKA;02:09;02:09;GH;55;Dual Carriageway;50
+UR69 XCY;02:39;02:39;FG;60;Other Road;50
+AD81 LRT;03:24;03:24;GH;52;Dual Carriageway;50
+TS48 MMQ;03:25;03:25;FG;53;Other Road;50
+FV15 GVJ;03:48;03:48;GH;54;Dual Carriageway;50
+UR69 XCY;03:51;03:51;FG;60;Other Road;50
+TS48 MMQ;04:18;04:18;FG;53;Other Road;50
+FV15 GVJ;04:43;04:43;GH;54;Dual Carriageway;50
+FV15 GVJ;06:35;06:35;GH;52;Dual Carriageway;50
+NX54 IVY;07:26;07:26;GH;65;Dual Carriageway;60
+CG32 UPP;10:50;10:50;GH;60;Dual Carriageway;50
+FO14 KKA;11:55;11:55;FG;55;Other Road;50
+FV15 GVJ;13:19;13:19;GH;52;Dual Carriageway;50
+LM42 MAG;14:04;14:04;GH;67;Dual Carriageway;50

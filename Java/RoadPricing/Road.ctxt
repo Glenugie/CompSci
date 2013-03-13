@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=rRoadName\ rMiles\ rRoadType\ rSpeedLimitPrivate\ rSpeedLimitCommercial
+comment0.target=Road(java.lang.String,\ int,\ java.lang.String,\ int,\ int)
+comment0.text=\r\n\ Constructor\ for\ Road\r\n\ @param\ rRoadName\ The\ name\ of\ the\ road\r\n\ @param\ rMiles\ The\ length\ of\ the\ road\ in\ miles\r\n\ @param\ rSpeedLimitPrivate\ The\ speed\ limit\ of\ this\ road\ for\ private\ cars\r\n\ @param\ rSpeedLimitCommercial\ The\ speed\ limit\ of\ this\ road\ for\ commercial\ vehicles\r\n
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment1.text=\r\n\ Returns\ the\ name\ of\ the\ road\r\n\ @return\ Name\ of\ road\r\n
+comment2.params=
+comment2.target=int\ getLength()
+comment2.text=\r\n\ Returns\ the\ length\ of\ the\ road\r\n\ @return\ Road\ length\ in\ miles\r\n
+comment3.params=
+comment3.target=java.lang.String\ getType()
+comment3.text=\r\n\ Returns\ the\ type\ of\ the\ road\r\n\ @return\ Type\ of\ road\r\n
+comment4.params=carType
+comment4.target=int\ getSpeedLimit(java.lang.String)
+comment4.text=\r\n\ Returns\ the\ speed\ limit\ relative\ to\ the\ car\ type\r\n\ @param\ carType\ The\ type\ of\ car\ requesting\ the\ speed\ limit\r\n\ @return\ Speed\ Limit\ of\ this\ road\ (mph)\r\n
+comment5.params=currentVehicle
+comment5.target=float\ setCharge(Vehicle)
+comment5.text=\r\n\ Charges\ a\ vehicle\ based\ on\ it's\ details\r\n\ @param\ currentVehicle\ The\ vehicle\ object\ that\ is\ being\ charged\r\n\ @param\ The\ value\ of\ the\ charge\ incurred\r\n
+numComments=6

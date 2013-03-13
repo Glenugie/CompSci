@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=sName\ sX\ sY
+comment0.target=Sensor(java.lang.String,\ int,\ int)
+comment0.text=\r\n\ Constructor\ for\ Sensor\r\n\ @param\ sName\ The\ name\ of\ the\ sensor\r\n\ @param\ sX\ The\ x\ co-ordinate\ of\ the\ sensor\r\n\ @param\ sY\ The\ y\ co-ordinate\ of\ the\ sensor\r\n
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment1.text=\r\n\ Returns\ the\ name\ of\ the\ sensor\r\n\ @return\ The\ name\ of\ the\ sensor\r\n
+comment2.params=
+comment2.target=int\ getX()
+comment2.text=\r\n\ Returns\ the\ x\ co-ordinate\ of\ the\ sensor\r\n\ @return\ the\ x\ co-ordinate\ of\ the\ sensor\r\n
+comment3.params=
+comment3.target=int\ getY()
+comment3.text=\r\n\ Returns\ the\ y\ co-ordinate\ of\ the\ sensor\r\n\ @return\ the\ y\ co-ordinate\ of\ the\ sensor\r\n
+numComments=4

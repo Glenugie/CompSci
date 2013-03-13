@@ -1,0 +1,25 @@
+CA60 IXI;commercial;15.06
+AK28 SCI;private car;1.2
+AZ54 SNW;private car;1.54
+YR47 DSU;commercial;9.3
+RN52 EBL;private car;1.59
+WO26 PZK;commercial;10.47
+RD29 RVW;private car;1.27
+IM60 WVJ;private car;0.94
+FR02 IWJ;commercial;10.16
+PV15 XYP;commercial;11.13
+CF10 FRW;commercial;10.03
+GW31 FOF;commercial;7.5
+GR35 VRV;commercial;13.35
+GK29 BSA;private car;2.94
+XB28 BKN;commercial;10.21
+YC15 AFL;commercial;5.42
+AA60 LNL;private car;1.98
+FZ79 UOR;commercial;7.86
+RM14 EWD;commercial;4.46
+AM72 EJI;commercial;11.52
+AU96 HLG;private car;2.62
+WI47 SUS;private car;2.58
+WC88 MGY;commercial;8.36
+LO21 ZRL;commercial;7.7
+CF84 FYI;private car;1.54

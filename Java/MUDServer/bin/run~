@@ -1,0 +1,6 @@
+#!/bin/bash
+
+javac com/cs3517/mud/*.java
+reset
+java com.cs3517.mud.MUDClient localhost 50010
+
