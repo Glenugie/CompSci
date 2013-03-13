@@ -1,0 +1,157 @@
+README for Ruby Fiction Generator
+
+This is based on David Malki's 'The Electro-Plasmic Hydrocephalic Genre-Fiction Generator 2000' work. The prototype diagram is at http://wondermark.com/554/ and you can follow a link there to a version written in Javascript and python if you like. 
+
+The files here are used part of the assessment work for in Web Application Development and can be run using the includedd Rakefile. The rspec_config.rb file provides colour settings.
+
+The rakefile will work through the fiction_spec.rb file tests and then those in the later_fiction_spec.rb files.
+
+Your job is to write a program to pass all of the tests. 
+
+If you want to run the files without the rakefile, then you'll need to set the path to the file with this require statement at the top of the spec file:
+
+require "#{File.dirname(__FILE__)}/fiction_gen"
+
+If you don't have this, then rspec won't find your file. 
+
+I should also point out that the colour settings will be missing if you do this.
+
+You will need to use these strings for different arrays in the program. Each line is a word or 
+phrase that is needed to develop the fiction generator as detailed at the link noted above.
+
+
+    location_adj =
+        neo-noir
+        alternate-history
+        ancient
+        post-apocalyptic
+        dystopian
+        VR-simulated
+        metaphorical
+        anachronistic
+        leather-clad
+        coal-powered
+        dragon-filled
+        shrill
+    
+    location_noun =
+        America
+        Japan
+        Soviet Russia
+        Victorian Britain
+        medieval Europe
+        Aztec empire
+        Atlantis
+        terraformed Mars
+        Antarctica
+        one-way spaceflight
+        Outer Rim world
+        set from Road Warrior
+   
+    
+    protagonist =
+        flying message courier
+        student of metaphysics
+        milquetoast office drone
+        schlub with mild <abbr>OCD</abbr>
+        farm boy with dreams
+        techno-obsessed geek
+        brooding loner
+        wisecracking mercenary
+        idealistic revolutionary
+        journeyman inventor
+        collector of oddities
+        author self-insert
+    
+    discovery = 
+        magic diadem
+        arcane prophecy
+        dusty tome
+        crazy old man
+        alien artifact
+        enchanted sword
+        otherworldly portal
+        dream-inducing drug
+        encrypted data feed
+        time-traveling soldier
+        exiled angel
+        talking fish
+    
+    adversary =
+        a megalomaniacal dictator
+        a government conspiracy
+        a profit-obsessed corporation
+        a sneering wizard
+        supernatural monsters
+        computer viruses made real
+        murderous robots
+        an army led by a sadist
+        forces that encourage conformity
+        a charismatic politician on the rise
+        humanity’s selfish nature
+        his own insecurity vis-a-vis girls
+    
+    assistant = 
+        sarcastic female techno-geek
+        tomboyish female mechanic
+        shape-shifting female assassin
+        leather-clad female in shades
+        girl who's always loved him
+        bookish female scholar with mousy brown hair
+        cherubic girl with pigtails and spunk
+        female who inexplicably becomes attracted to the damaged protagonist for unstated reasons
+    
+    
+    inventory =
+        wacky pet
+        welding gear
+        closet full of assault rifles
+        reference book
+        cleavage
+        facility with magic
+        condescending tone
+        discomfort in formal wear
+   
+    
+    conflict = 
+        a fistfight atop a tower
+        a daring rescue preceding a giant explosion
+        a heroic sacrifice that no one will ever remember
+        a philosophical argument punctuated by violence
+        a false victory with the promise of future danger
+        the invocation of a spell at the last possible moment
+        eternal love professed without irony
+        the land restored to health
+        authorial preaching through the mouths of the characters
+        convoluted nonsense that squanders the readers’ goodwill
+        wish-fulfillment solutions to real-world problems
+        a cliffhanger for the sake of prompting a series
+    
+    
+    title_adj =
+        Chrono
+        Neuro
+        Aero
+        Cosmo
+        Reve
+        Necro
+        Cyber
+        Astro
+        Psycho
+        Steam
+        Meta
+        Black
+    
+    title_noun = 
+        punks
+        mechs
+        noiacs
+        opolis
+        nauts
+        phages
+        droids
+        bots
+        blades
+        trons
+        mancers
+        Wars
